@@ -1,0 +1,7 @@
+
+
+object Prueba {
+  
+  println("Prueba")
+  
+}
